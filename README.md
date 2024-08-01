@@ -56,7 +56,7 @@ Diseña un layout de revista digital con diferentes secciones y un espacio unifo
 ### Ejercicio # 9: Dashboard con Alineación Personalizada
 Crea un dashboard con widgets de diferentes tamaños, alineando algunos al inicio, otros al centro y otros al final de sus celdas.
 
-### Ejercicio # 10: Dashboard Responsivo Complejo
+### Ejercicio # 10: Sitio web básico
 Diseña un sitio web básico con un header de 60px de alto, un sidebar de 200px de ancho, un área de contenido principal y un footer usando CSS Grid.
 
 > Pista: Usa grid-template-areas para el layout general.
