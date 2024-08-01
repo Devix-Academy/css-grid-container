@@ -1,8 +1,8 @@
-# Ejercicios para poner a prueba tus conocimientos de la lección: Flex container
+# Ejercicios para poner a prueba tus conocimientos de la lección: Css grid container
 
 **¡Desafía tus habilidades CSS!**
 
-Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados para poner a prueba tus conocimientos sobre la Flex container en CSS. A través de estos desafíos, fortalecerás tu comprensión de cómo estructurar y organizar el contenido de una página web de manera efectiva y atractiva.
+Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados para poner a prueba tus conocimientos sobre Css grid container en CSS. A través de estos desafíos, fortalecerás tu comprensión de cómo estructurar y organizar el contenido de una página web de manera efectiva y atractiva.
 
 **¿Are you ready para demostrar tu dominio? ¡Manos a la obra!**
 
